@@ -1,0 +1,15 @@
+include 		-
+require + once		-
+loops			-
+arrays			-
+strings functions	-
+arrays fcuntins		-
+fucntions		-
+super variables		-
+cookies sssions		-
+form methods		-
+isset			-
+traits			-
+constrctor
+classes			-
+print echo var_cdump	-
